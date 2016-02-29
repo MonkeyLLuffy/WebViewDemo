@@ -28,19 +28,21 @@ public final class R {
         public static final int top=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f080006;
-        public static final int btn_back=0x7f080001;
-        public static final int btn_icon=0x7f080005;
-        public static final int btn_refresh=0x7f080003;
-        public static final int btn_top=0x7f080004;
-        public static final int txt_title=0x7f080002;
+        public static final int action_settings=0x7f080007;
+        public static final int btn_back=0x7f080003;
+        public static final int btn_clear_cache=0x7f080001;
+        public static final int btn_icon=0x7f080006;
+        public static final int btn_refresh=0x7f080002;
+        public static final int btn_top=0x7f080005;
+        public static final int txt_title=0x7f080004;
         public static final int webView=0x7f080000;
     }
     public static final class layout {
         public static final int activity_float=0x7f030000;
         public static final int activity_main=0x7f030001;
-        public static final int float_title=0x7f030002;
-        public static final int mywebviewtest=0x7f030003;
+        public static final int cache_demo=0x7f030002;
+        public static final int float_title=0x7f030003;
+        public static final int mywebviewtest=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;

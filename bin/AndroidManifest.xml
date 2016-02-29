@@ -15,7 +15,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".UserHTML"
+            android:name=".CacheDemo"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,9 +24,10 @@
             </intent-filter>
         </activity>
         
-        <activity android:name="com.monkeylluffy.webviewdemo.MainActivity"/>
-        <activity android:name="com.monkeylluffy.webviewdemo.OwnWebviewTest"/>
-        <activity android:name="com.monkeylluffy.webviewdemo.FloatTitle"/>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".OwnWebviewTest"/>
+        <activity android:name=".UserHTML"/>
+        <activity android:name=".FloatTitle"/>
     </application>
 
 </manifest>
